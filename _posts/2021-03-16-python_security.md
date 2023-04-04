@@ -1,3 +1,10 @@
+---
+title: "Be cautious when installing external libraries"
+categories:
+  - Blog
+tags:
+  - Python
+---
 # Be cautious when installing external libraries
 
 ## TL;DR

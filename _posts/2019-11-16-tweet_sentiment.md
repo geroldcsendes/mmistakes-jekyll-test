@@ -4,6 +4,7 @@ categories:
   - Blog
 tags:
   - NLP
+  - AWS
 ---
   
 #  Detecting tweet sentiments with AWS Comprehend and R

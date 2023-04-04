@@ -1,3 +1,10 @@
+---
+title: "Streaming r/wallstreetbets using AWS"
+categories:
+  - Blog
+tags:
+  - AWS
+---
 # Streaming r/wallstreetbets using AWS
 
 ## TL;DR
