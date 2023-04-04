@@ -5,8 +5,6 @@ categories:
 tags:
   - Python
 ---
-# Be cautious when installing external libraries
-
 ## TL;DR
 
 PyPI does not guarantee package security. Make sure to check out its github for signs of activity and get the spelling right. 
